@@ -1,4 +1,4 @@
-## Hi there 👋
+## A alegria de programar é aprender com os problemas que vem pelo caminho 💻🤖
 
 <!--
 **NelmarBarrosMalko/NelmarBarrosMalko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
